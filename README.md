@@ -1,0 +1,1 @@
+# predykcja-cen-mieszkan
