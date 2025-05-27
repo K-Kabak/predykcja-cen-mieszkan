@@ -8,7 +8,7 @@ Projekt regresji wykonany w ramach nauki uczenia maszynowego – przewidywanie c
 ## 🔧 Wykorzystane biblioteki
 - `pandas`, `numpy`
 - `matplotlib`, `seaborn`
-- `scikit-learn` (RandomForestRegressor)
+- `scikit-learn` (`RandomForestRegressor`)
 
 ## 📈 Wyniki
 - MAE: około 0.5
@@ -17,6 +17,14 @@ Projekt regresji wykonany w ramach nauki uczenia maszynowego – przewidywanie c
 ## 📁 Pliki
 - `mieszkania_california.py` – wersja do uruchomienia lokalnie
 - `projekt_california_colab.ipynb` – wersja gotowa do Google Colab
+
+## 🖼️ Przykładowe wizualizacje
+
+### 📊 Macierz korelacji
+![Macierz korelacji](images/macierz_korelacji.png)
+
+### 📈 Predykcja vs rzeczywiste wartości
+![Predykcja vs rzeczywistość](images/scatter_pred_vs_actual.png)
 
 ## 📌 Autor
 Kacper Kabak
